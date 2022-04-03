@@ -19,7 +19,7 @@
     </header>
     <ul>
   		<li>
-        	<a href="index.html">Home</a>
+        	<a href="index.php">Home</a>
         </li>
   		<li>
         	<a href="signup.html">Sign up</a>
